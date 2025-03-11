@@ -90,9 +90,7 @@ This project addresses several MQTT security vulnerabilities:
 2. **Authentication and Authorization**: Using strong authentication methods and role-based access control.
 3. **Broker Security**: Regular updates, patching, and network monitoring.
 4. **Quality of Service**: Appropriate QoS levels for critical messages and network optimization.
-
-## Contributors
-- Tran Anh Thu Pham (10381840)
+   
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License 
